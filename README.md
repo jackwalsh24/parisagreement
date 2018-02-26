@@ -1,6 +1,9 @@
 # Paris Agreement
-Game on top of Ethereum to achieve Paris Agreement Article 2 targets
+The Paris Agreement is widely regarded as the most important document ever drafted in the slow international battle to mitigate and adapt to the effects of climate change. Its passages have strengthened the world’s resolve to tackle the problem with renewed vigor and cooperation. But its creation was the result of a negotiation process that has endured for well over two painstaking decades. The UNFCCC began in 1992 as a result of the Intergovernmental Panel of Climate Change (IPCC)’s urging UN to approach the issue with urgency. Over twenty years later, that same international body finally produced a worthwhile document that can survive the bitter disagreements that have typically surfaced between developing and developed countries.
+
+Several technological solutions have been put in place in order to achieve the targets set forth in Article 2, the most important target being "holding the increase in the global average temperature to well below 2°C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5°C above pre-industrial levels". In particular, Article 10 calls for a strengthening of cooperative action on technology development and transfer. The Technology Mechanism, created in 2010, was clarified to serve the Paris Agreement, allowing the mechanism to leverage innovative organizations such as the CTCN in pursuit of Article 2 targets. In addition, Article 13 outlines an enhanced transparency framework for action and support, empowering all countries to begin reporting emissions frequently starting in 2020.
 
 10,000,000 shares. You are buying a stake in the Earth.
 
 Instead of management being bound by the fiduciary duty to maximize profit for its shareholders, the management of Earth will be bound by fiduciary duty to achieve the Paris Agreement targets as outlined in Article 2. 
+
